@@ -4,7 +4,7 @@
 
 Bem-vindo ao Python-101, um repositório open-source criado com uma missão clara: democratizar o acesso ao conhecimento de programação em Python, desde os primeiros passos até a aplicação prática em Machine Learning. Este não é apenas mais um conjunto de exercícios de programação, mas sim um caminho cuidadosamente estruturado para construir competências sólidas e significativas.
 
-[![Python](https://img.shields.io/badge/python-3.11-blue)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/python-3.12-blue)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/jupyter-notebooks-orange)](https://jupyter.org/)
 [![License](https://img.shields.io/badge/license-commons-blue)](LICENSE)
 
